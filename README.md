@@ -28,7 +28,7 @@ Tecnologia Educacional com foco em Gamificação e Ensino de Tecnologia. A empre
 
 ## 📑 Modelagem e Documentação
 - UML
-- Draw.io
+- Astah
 
 ## 🔧 Organização e Versionamento
 - GitHub
