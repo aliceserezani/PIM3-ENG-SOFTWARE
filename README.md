@@ -1,7 +1,66 @@
-# PIM3
-Desenvolvimento de plataforma web de avaliação e apoio à aprendizagem para uma empresa fictícia de tecnologia educacional. 
+# 📌 Projeto Integrado Multidisciplinar 3
 
-Este projeto busca integrar conceitos de engenharia de software ágil, modelagem de dados, programação orientada a objetos, desenvolvimento web responsivo, UX/UI design e análise de dados, com foco na tomada de decisão baseada em informações de desempenho dos usuários. 
+## 📖 Hytech
+Tecnologia Educacional com foco em Gamificação e Ensino de Tecnologia. A empresa atua no nicho de microlearning, oferecendo conteúdos 
+---
 
-Atualmente, empresas de tecnologia educacional buscam oferecer soluções que permitam não apenas a aplicação de avaliações, mas também o acompanhamento do desempenho dos estudantes e a geração de informações relevantes para a tomada de decisão pedagógica. 
-A proposta deste projeto consiste na simulação de uma empresa fictícia desse setor, para a qual será desenvolvida uma plataforma web de avaliações e apoio à aprendizagem. O sistema deverá permitir a criação e aplicação de questionários, o registro de respostas e a geração de relatórios de desempenho, considerando diferentes perfis de usuários, como administradores, professores e alunos. Além disso, o projeto integrará aspectos técnicos, de usabilidade e de análise de dados, promovendo uma visão sistêmica do desenvolvimento de software em um contexto organizacional verossímil. 
+# 🎯 Objetivos
+- Aplicar metodologias de desenvolvimento de software;
+- Desenvolver documentação técnica;
+- Criar protótipos e interfaces responsivas;
+- Modelar banco de dados e diagramas UML;
+- Simular um ambiente de projeto colaborativo.
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+## 💻 Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+## 🎨 UX/UI
+- Figma
+
+## 🗄️ Banco de Dados
+- MySQL
+
+## 📑 Modelagem e Documentação
+- UML
+- Draw.io
+
+## 🔧 Organização e Versionamento
+- GitHub
+
+---
+
+# 📋 Funcionalidades Desenvolvidas
+- Levantamento de requisitos;
+- Organização de backlog;
+- Planejamento de sprints;
+- Diagramas UML;
+- Modelagem de banco de dados;
+- Protótipos UX/UI;
+- Interface responsiva;
+- Avaliação de usabilidade.
+
+---
+
+# 📌 Status do Projeto
+
+| ID  | Tarefa | Descrição | Prioridade | Status |
+|------|----------|-------------|--------------|----------|
+| T01 | Definir negócio | Descrever empresa fictícia e público-alvo | Alta | ✅ Concluído |
+| T02 | Identificar stakeholders | Levantar usuários e interessados | Alta | ✅ Concluído |
+| T03 | Levantar requisitos | Definir requisitos funcionais e não funcionais | Alta | ✅ Concluído |
+| T04 | Organizar backlog | Listar e priorizar funcionalidades | Alta | ✅ Concluído |
+| T05 | Planejar iterações | Definir sprints | Média | ✅ Concluído |
+| T06 | Desenvolver Diagramas | Diagrama de Caso de Uso, Classe e Sequência | Alta | ✅ Concluído |
+| T07 | Modelar banco de dados | Criar modelo conceitual e lógico | Alta | ✅ Concluído |
+| T08 | Protótipos (UX/UI) | Criar wireframes | Alta | ✅ Concluído |
+| T09 | Responsividade | Tornar Protótipo responsivo | Alta | ✅ Concluído |
+| T10 | Frontend | Criar interface (HTML, CSS) | Média | ✅ Concluído |
+| T11 | Usabilidade | Avaliar melhorias | Baixa | ✅ Concluído |
+| T12 | Comunicação | Organização do grupo | Baixa | ✅ Concluído |
+| T13 | Avaliação final | Validar objetivos | Média | 🚧 Em andamento |
