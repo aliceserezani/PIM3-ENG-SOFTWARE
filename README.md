@@ -1,7 +1,7 @@
 # 📌 Projeto Integrado Multidisciplinar 3
 
 ## 📖 Hytech
-Tecnologia Educacional com foco em Gamificação e Ensino de Tecnologia. A empresa atua no nicho de microlearning, oferecendo conteúdos 
+Tecnologia Educacional com foco em Gamificação e Ensino de Tecnologia. A empresa atua no nicho de microlearning, oferecendo conteúdos densos de tecnologia fragmentados em desafios interativos em um sistema gamificado.
 ---
 
 # 🎯 Objetivos
