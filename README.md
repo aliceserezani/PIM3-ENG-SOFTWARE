@@ -66,11 +66,12 @@ Tecnologia Educacional com foco em Gamificação e Ensino de Tecnologia. A empre
 | T13 | Avaliação final | Validar objetivos | Média | 🚧 Em andamento |
 ---
 
-#Equipe
-| nome | RA | SCRUM | GITHUB | 
-|------|----------|-------------|--------------|
-Alice Serezani	h607jd1	Scrum Master	GitHub
-Fernanda Carvalheira	h191gh0	Product Owner	GitHub
-Kauã de Moreira	r6885b1	Dev	GitHub
-Nicolas Diogo	r860817	Dev	GitHub
-Iago Monfredine	r8511b0	Dev	GitHub
+# 👥 Equipe
+
+| Nome | RA | Função SCRUM | GitHub |
+|------|------|----------------|---------|
+| Alice Serezani | h607jd1 | Scrum Master | [GitHub](https://github.com/aliceserezani) |
+| Fernanda Carvalheira | h191gh0 | Product Owner | [GitHub](https://github.com/NandaCarvalheira) |
+| Kauã de Moreira | r6885b1 | Dev | [GitHub](https://github.com/KauaMMoreiraBr) |
+| Nicolas Diogo | r860817 | Dev | [GitHub](https://github.com/nicollas-nunes) |
+| Iago Monfredine | r8511b0 | Dev | [GitHub](https://github.com/IagoMonfredine) |
